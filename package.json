@@ -1,0 +1,22 @@
+{
+  "name": "ai-professional-communication-skills",
+  "version": "1.0.0",
+  "description": "An open, model-agnostic AI Skill Specification (AISS) for reviewing, improving, and standardizing professional workplace communication.",
+  "private": false,
+  "type": "module",
+  "scripts": {
+    "check": "node scripts/check-docs.mjs",
+    "test": "node scripts/check-docs.mjs"
+  },
+  "keywords": [
+    "ai",
+    "llm",
+    "ai-engineering",
+    "communication",
+    "professional-communication",
+    "ai-skills",
+    "specification",
+    "developer-tools"
+  ],
+  "license": "MIT"
+}
